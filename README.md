@@ -6,7 +6,7 @@
 
 <div align=center>
   
-[![test](https://github-readme-stats.vercel.app/api?username=hyojaekim&show_icons=true&theme=highcontrast&text_color=e6e6e6&bg_color=1d1d1f)](https://github-readme-stats.vercel.app)
+[![test](https://github-readme-stats.vercel.app/api?username=hyojaekim&show_icons=true&theme=highcontrast&text_color=e6e6e6&bg_color=1d1d1f&hide=stars)](https://github-readme-stats.vercel.app)
 
 </div>
 
