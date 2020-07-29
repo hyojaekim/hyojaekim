@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 <div align=center>
   
-[![Tech blog badge](https://img.shields.io/badge/blog-tech-critical?style=plastic&link=https://hyojaedev.tistory.com/)](https://hyojaedev.tistory.com/)
+[![Tech blog badge](https://img.shields.io/badge/-Tech%20blog-grey?style=flat&link=https://hyojaedev.tistory.com/)](https://hyojaedev.tistory.com/)
+[![Gmail badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:hyojaekim@gmail.com)](mailto:hyojaekim@gmail.com)
 
 </div>
