@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 <div align=center>
   
-[![Tech blog badge](https://img.shields.io/badge/blog-tech-critical?style=plastic&link=https://hyojaedev.tistory.com/](https://hyojaedev.tistory.com/)
+[![Tech blog badge](https://img.shields.io/badge/blog-tech-critical?style=plastic&link=https://hyojaedev.tistory.com/)](https://hyojaedev.tistory.com/)
 
 </div>
