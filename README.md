@@ -6,6 +6,12 @@
 
 ### Hi there 👋
 
+<div align=center>
+  
+[![Tech Blog Badge](https://img.shields.io/badge/blog-tech-critical?style=plastic&link=https://hyojaedev.tistory.com/](https://hyojaedev.tistory.com/)
+
+</div>
+
 <!--
 **hyojaekim/hyojaekim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
