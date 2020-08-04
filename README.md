@@ -7,6 +7,11 @@
 <div align=center>
   
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojaekim&layout=compact&theme=highcontrast&bg_color=1d1d1f&hide=html)](https://github.com/hyojaekim)
+
+</div>
+
+<div align=center>
+  
 [![Github stats](https://github-readme-stats.vercel.app/api?username=hyojaekim&show_icons=true&theme=highcontrast&text_color=e6e6e6&bg_color=1d1d1f&hide=stars)](https://github.com/hyojaekim)
 
 </div>
