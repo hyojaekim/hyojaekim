@@ -6,10 +6,6 @@
 
 </div>
 
-<span>
-  
-[![Github stats](https://github-readme-stats.vercel.app/api?username=hyojaekim&show_icons=true&theme=highcontrast&text_color=e6e6e6&bg_color=1d1d1f&hide=stars)](https://github.com/hyojaekim)
-
-[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojaekim&layout=compact&theme=highcontrast&bg_color=1d1d1f)](https://github.com/hyojaekim)
-
-</span>
+### :octocat: My Github Stats
+[![Github stats](https://github-readme-stats.vercel.app/api?username=hyojaekim&show_icons=true&icon_color=036635&title_color=036635&hide=stars&text_color=5F5F5F)](https://github.com/hyojaekim)
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojaekim&layout=compact&title_color=b07219)](https://github.com/hyojaekim)
