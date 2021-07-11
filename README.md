@@ -1,10 +1,16 @@
-<div align=center>
-  
+<div align=center>  
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyojaekim)](https://hits.seeyoufarm.com)
 [![Tech blog badge](https://img.shields.io/badge/-Tech%20blog-grey?style=flat&link=https://hyojaedev.tistory.com/)](https://hyojaedev.tistory.com/)
 [![Gmail badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:hyojaekim@gmail.com)](mailto:hyojaekim@gmail.com)
 
 </div>
+
+### 🏃 Work Experience
+* Server Engineer (Intern) / NAVER Webtoon (2021.07 - )
+
+### 💻 Develop Experience
+* Backend Engineer / woowacourse (2019.05 - 2019.12)
 
 ### :octocat: My Github Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=hyojaekim&show_icons=true&icon_color=036635&title_color=036635&hide=stars&text_color=5F5F5F)](https://github.com/hyojaekim)
