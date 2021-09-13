@@ -7,7 +7,7 @@
 </div>
 
 ### 🏃 Work Experience
-* Server Engineer (Intern) / NAVER Webtoon (2021.07 - )
+* Server Engineer (Intern) / NAVER Webtoon (2021.07.05 - 2021.08.27)
 
 ### 💻 Develop Experience
 * Backend Engineer / woowacourse (2019.05 - 2019.12)
