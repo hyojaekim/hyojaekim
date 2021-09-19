@@ -7,6 +7,7 @@
 </div>
 
 ### 🏃 Work Experience
+* Server Engineer / NAVER Webtoon (2021.10.05 - )
 * Server Engineer (Intern) / NAVER Webtoon (2021.07.05 - 2021.08.27)
 
 ### 💻 Develop Experience
