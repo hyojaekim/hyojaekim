@@ -7,11 +7,11 @@
 </div>
 
 ### 🏃 Work Experience
-* Server Engineer / NAVER Webtoon (2021.10.05 - )
-* Server Engineer (Intern) / NAVER Webtoon (2021.07.05 - 2021.08.27)
+* Server Developer / NAVER Webtoon (2021.10.05 - )
+* Server Developer (Intern) / NAVER Webtoon (2021.07.05 - 2021.08.27)
 
 ### 💻 Develop Experience
-* Backend Engineer / woowacourse (2019.05 - 2019.12)
+* Backend Developer / woowacourse (2019.05 - 2019.12)
 
 ### :octocat: My Github Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=hyojaekim&show_icons=true&icon_color=036635&title_color=036635&hide=stars&text_color=5F5F5F)](https://github.com/hyojaekim)
